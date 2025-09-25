@@ -46,4 +46,4 @@ Modelin test veri seti üzerindeki performansı:
 - *Test Loss:* 0.5542 
 - *Test Accuracy:* 0.8090
 
-![Confusion Matrix](images/confusion_matrix.png)
+
