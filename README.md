@@ -47,3 +47,12 @@ Modelin test veri seti üzerindeki performansı:
 - *Test Accuracy:* 0.8090
 
 
+  ### Notebook
+Projeyi adım adım görmek için [notebook dosyasına buradan](notebooks/intel_image_classification.ipynb) ulaşabilirsiniz.
+
+
+##Linkler
+https://www.kaggle.com/code/hayrunnisasar/akbank-derin-renme-notebook/edit 
+
+
+
