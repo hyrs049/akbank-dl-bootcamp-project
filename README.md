@@ -51,7 +51,7 @@ Modelin test veri seti üzerindeki performansı:
 Projeyi adım adım görmek için [notebook dosyasına buradan](notebooks/intel_image_classification.ipynb) ulaşabilirsiniz.
 
 
-##Linkler
+ ### Linkler
 https://www.kaggle.com/code/hayrunnisasar/akbank-derin-renme-notebook/edit 
 
 
