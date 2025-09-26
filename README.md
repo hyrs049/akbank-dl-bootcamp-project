@@ -49,7 +49,7 @@ Modelin test veri seti üzerindeki performansı:
 
 Aşağıda, modelin tahmin yaparken hangi bölgelere odaklandığını gösteren Grad-CAM çıktısı yer almaktadır. Görsel, test verisinden alınan bir örnek üzerinde oluşturulmuştur ve modelin karar mekanizmasını görselleştirmektedir.
 
-![Grad-CAM](images/gradcam1.png)
+![Grad-CAM](images/gradcam.jpg)
 
   ### Notebook
 Projeyi adım adım görmek için [notebook dosyasına buradan](notebooks/intel_image_classification.ipynb) ulaşabilirsiniz.
