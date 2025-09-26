@@ -63,7 +63,7 @@ Aşağıda, modelin farklı görseller üzerinde hangi bölgelere odaklandığı
 
 > Görseller `sample_images` listesinden alınmış ve her biri için Grad-CAM uygulanmıştır. Görsel numaraları sıralı olarak `"images/gradcam{i}.png"` şeklinde kaydedilmiştir.
 ### 📓 Notebook
-Projeyi adım adım görmek için [notebook dosyasına buradan](https://github.com/hayrunnisa-ai/intel-image-classification/blob/main/notebooks/intel_image_classification.ipynb) ulaşabilirsiniz.
+Projeyi adım adım görmek için [notebook dosyasına buradan](https://github.com/hyrs049/akbank-dl-bootcamp-project/tree/main) ulaşabilirsiniz.
 
  ### Linkler
 https://www.kaggle.com/code/hayrunnisasar/akbank-derin-renme-notebook/edit 
