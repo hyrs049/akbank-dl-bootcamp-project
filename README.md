@@ -51,6 +51,17 @@ Aşağıda, modelin tahmin yaparken hangi bölgelere odaklandığını gösteren
 
 ![Grad-CAM](images/gradcam.jpg)
 
+## 🔍 Grad-CAM Görselleştirme Galerisi
+
+Aşağıda, modelin farklı görseller üzerinde hangi bölgelere odaklandığını gösteren Grad-CAM çıktıları yer almaktadır. Her görsel, modelin karar verirken hangi alanları dikkate aldığını görselleştirmektedir.
+
+| Görsel # | Grad-CAM Çıktısı |
+|----------|------------------|
+| 1        | ![](images/gradcam1.png) |
+| 2        | ![](images/gradcam2.png) |
+
+
+> Görseller `sample_images` listesinden alınmış ve her biri için Grad-CAM uygulanmıştır. Görsel numaraları sıralı olarak `"images/gradcam{i}.png"` şeklinde kaydedilmiştir.
   ### Notebook
 Projeyi adım adım görmek için [notebook dosyasına buradan](notebooks/intel_image_classification.ipynb) ulaşabilirsiniz.
 
