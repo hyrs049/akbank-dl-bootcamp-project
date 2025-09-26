@@ -45,7 +45,11 @@ Modelin test veri seti üzerindeki performansı:
 
 - *Test Loss:* 0.5542 
 - *Test Accuracy:* 0.8090
+## 🔍 Grad-CAM Görselleştirmesi
 
+Aşağıda, modelin tahmin yaparken hangi bölgelere odaklandığını gösteren Grad-CAM çıktısı yer almaktadır. Görsel, test verisinden alınan bir örnek üzerinde oluşturulmuştur ve modelin karar mekanizmasını görselleştirmektedir.
+
+![Grad-CAM](images/gradcam1.png)
 
   ### Notebook
 Projeyi adım adım görmek için [notebook dosyasına buradan](notebooks/intel_image_classification.ipynb) ulaşabilirsiniz.
